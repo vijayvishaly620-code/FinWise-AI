@@ -1,0 +1,551 @@
+user_id,date,category,amount,description,payment_method
+U001,2025-01-07,Shopping,2447,Home Decor,Card
+U001,2025-01-12,Bills,1152,Phone Recharge,UPI
+U001,2025-01-22,Food,98,Food Delivery,Wallet
+U001,2025-02-27,Food,682,Street Food,Card
+U001,2025-03-04,Food,777,Food Delivery,Cash
+U001,2025-03-09,Healthcare,1263,Gym,Card
+U001,2025-03-12,Travel,6885,Flight,Wallet
+U001,2025-03-14,Bills,596,Gas,UPI
+U001,2025-03-14,Food,695,Groceries,Wallet
+U001,2025-03-31,Food,558,Restaurant,Wallet
+U001,2025-04-06,Bills,1705,Gas,Card
+U001,2025-04-11,Rent,11734,House Rent,UPI
+U001,2025-04-11,Shopping,1385,Electronics,UPI
+U001,2025-04-22,Shopping,2422,Books,Card
+U001,2025-05-08,Transport,370,Bus,Net Banking
+U001,2025-05-12,Travel,6244,Weekend Trip,Net Banking
+U001,2025-05-16,Food,211,Juice Bar,Wallet
+U001,2025-05-22,Shopping,1150,Gifts,Wallet
+U001,2025-06-06,Shopping,2597,Clothes,Card
+U001,2025-06-11,Food,427,Juice Bar,UPI
+U001,2025-06-15,Bills,873,Water,Wallet
+U001,2025-06-25,Education,3085,Course Fee,Wallet
+U001,2025-07-07,Food,155,Juice Bar,Cash
+U001,2025-08-09,Education,1462,Stationery,Cash
+U001,2025-08-22,Food,84,Restaurant,Cash
+U001,2025-08-27,Shopping,372,Clothes,Wallet
+U001,2025-09-08,Bills,1535,Electricity,Card
+U001,2025-09-10,Food,353,Food Delivery,Wallet
+U001,2025-09-27,Transport,378,Metro,Wallet
+U001,2025-09-27,Transport,238,Metro,Wallet
+U001,2025-09-29,Food,789,Groceries,Net Banking
+U001,2025-10-04,Entertainment,720,Streaming,Wallet
+U001,2025-11-02,Entertainment,1373,Sports,Wallet
+U001,2025-11-04,Transport,342,Metro,Net Banking
+U001,2025-11-11,Food,709,Street Food,Card
+U001,2025-11-16,Rent,11899,Parking Fee,Net Banking
+U001,2025-11-18,Rent,11697,House Rent,Card
+U001,2025-11-19,Rent,13764,Parking Fee,Card
+U001,2025-11-28,Travel,7389,Weekend Trip,Net Banking
+U001,2025-12-15,Education,3779,Exam Fee,UPI
+U001,2025-12-19,Food,123,Bakery,Wallet
+U001,2025-12-30,Shopping,572,Books,Card
+U001,2026-01-06,Food,672,Cafeteria,Wallet
+U001,2026-01-25,Other,873,Pet Care,Cash
+U001,2026-01-30,Entertainment,915,Concert,Net Banking
+U001,2026-02-15,Food,411,Juice Bar,UPI
+U001,2026-02-21,Bills,1612,Water,Card
+U001,2026-02-25,Food,316,Bakery,Net Banking
+U001,2026-03-06,Bills,558,Gas,Card
+U001,2026-03-10,Rent,7651,House Rent,Card
+U001,2026-04-15,Bills,1792,Phone Recharge,Card
+U001,2026-05-13,Food,114,Restaurant,UPI
+U001,2026-05-14,Transport,480,Bike Service,Card
+U001,2026-06-14,Other,466,Salon,Net Banking
+U001,2026-06-20,Bills,348,Gas,Cash
+U002,2025-01-01,Bills,931,Internet,Cash
+U002,2025-01-04,Bills,698,Insurance,Cash
+U002,2025-01-06,Shopping,528,Accessories,UPI
+U002,2025-01-09,Education,4921,Exam Fee,Wallet
+U002,2025-01-10,Transport,469,Parking,Net Banking
+U002,2025-01-21,Food,342,Bakery,Wallet
+U002,2025-01-26,Rent,13814,House Rent,Card
+U002,2025-02-06,Rent,14039,Parking Fee,Cash
+U002,2025-02-10,Transport,487,Parking,Cash
+U002,2025-02-12,Bills,974,Water,Cash
+U002,2025-02-22,Shopping,2725,Home Decor,UPI
+U002,2025-03-13,Bills,791,Phone Recharge,Cash
+U002,2025-03-17,Bills,1993,Gas,Wallet
+U002,2025-03-21,Shopping,896,Accessories,Cash
+U002,2025-03-24,Food,290,Street Food,Card
+U002,2025-04-25,Bills,1210,Phone Recharge,UPI
+U002,2025-05-05,Food,738,Food Delivery,Net Banking
+U002,2025-05-08,Shopping,1907,Books,Cash
+U002,2025-05-18,Transport,70,Bike Service,Cash
+U002,2025-06-08,Rent,14738,Maintenance,Card
+U002,2025-06-09,Food,607,Restaurant,Cash
+U002,2025-06-15,Entertainment,1471,Hobbies,Net Banking
+U002,2025-06-19,Bills,928,Insurance,Net Banking
+U002,2025-06-23,Shopping,1582,Accessories,UPI
+U002,2025-07-14,Bills,408,Gas,Cash
+U002,2025-07-19,Healthcare,1421,Doctor Visit,Net Banking
+U002,2025-07-21,Food,51,Bakery,Cash
+U002,2025-07-28,Transport,364,Metro,Cash
+U002,2025-08-08,Food,570,Bakery,UPI
+U002,2025-08-14,Rent,10382,Maintenance,Net Banking
+U002,2025-08-17,Transport,438,Parking,UPI
+U002,2025-08-19,Healthcare,2051,Medicine,Card
+U002,2025-09-29,Food,184,Cafeteria,UPI
+U002,2025-10-11,Transport,423,Metro,Wallet
+U002,2025-10-30,Shopping,1046,Gifts,Wallet
+U002,2025-11-02,Shopping,2834,Clothes,Net Banking
+U002,2025-11-18,Food,309,Bakery,Net Banking
+U002,2025-11-21,Food,551,Juice Bar,Net Banking
+U002,2025-11-26,Transport,397,Fuel,Net Banking
+U002,2025-12-06,Transport,212,Taxi,UPI
+U002,2025-12-10,Transport,324,Bike Service,UPI
+U002,2025-12-24,Food,149,Cafeteria,UPI
+U002,2025-12-29,Food,550,Food Delivery,Wallet
+U002,2026-01-24,Food,549,Bakery,Card
+U002,2026-01-27,Transport,357,Parking,UPI
+U002,2026-02-03,Food,414,Bakery,Cash
+U002,2026-02-08,Rent,10341,Parking Fee,Wallet
+U002,2026-02-26,Entertainment,1184,Games,Card
+U002,2026-03-02,Shopping,1674,Books,UPI
+U002,2026-03-13,Bills,1806,DTH,Wallet
+U002,2026-03-25,Rent,7850,Maintenance,Wallet
+U002,2026-04-17,Rent,6996,House Rent,Cash
+U002,2026-05-02,Food,234,Groceries,Wallet
+U002,2026-05-02,Shopping,2257,Shoes,Net Banking
+U002,2026-06-15,Entertainment,305,Streaming,Net Banking
+U003,2025-01-13,Bills,1084,Insurance,Wallet
+U003,2025-01-15,Transport,106,Auto Rickshaw,Wallet
+U003,2025-01-22,Travel,4903,Weekend Trip,Cash
+U003,2025-02-10,Bills,345,Phone Recharge,Net Banking
+U003,2025-02-11,Bills,1923,Insurance,UPI
+U003,2025-02-12,Rent,13055,Parking Fee,Cash
+U003,2025-03-08,Transport,249,Parking,Net Banking
+U003,2025-03-25,Entertainment,416,Concert,Net Banking
+U003,2025-04-04,Entertainment,413,Sports,Card
+U003,2025-04-12,Bills,1297,Electricity,Card
+U003,2025-04-13,Entertainment,915,Sports,Card
+U003,2025-04-15,Bills,1329,Insurance,Cash
+U003,2025-04-19,Food,667,Bakery,Net Banking
+U003,2025-04-28,Education,922,Stationery,Card
+U003,2025-06-06,Rent,13392,House Rent,Card
+U003,2025-06-10,Bills,1389,Internet,Card
+U003,2025-07-08,Transport,231,Fuel,UPI
+U003,2025-07-17,Transport,78,Metro,Cash
+U003,2025-07-22,Entertainment,905,Hobbies,Net Banking
+U003,2025-07-23,Education,2044,Online Course,UPI
+U003,2025-08-12,Food,473,Restaurant,Net Banking
+U003,2025-08-26,Education,1527,Online Course,Cash
+U003,2025-08-28,Education,449,Online Course,Cash
+U003,2025-09-09,Shopping,1035,Home Decor,UPI
+U003,2025-09-22,Food,316,Food Delivery,Cash
+U003,2025-09-30,Food,536,Food Delivery,Card
+U003,2025-10-06,Food,575,Cafeteria,Wallet
+U003,2025-10-10,Transport,357,Taxi,Wallet
+U003,2025-10-23,Food,644,Coffee Shop,Net Banking
+U003,2025-10-27,Food,781,Groceries,Card
+U003,2025-11-08,Shopping,540,Clothes,UPI
+U003,2025-11-16,Travel,4840,Flight,Wallet
+U003,2025-12-08,Travel,3110,Vacation,Cash
+U003,2025-12-19,Transport,197,Taxi,Net Banking
+U003,2025-12-25,Food,800,Groceries,Card
+U003,2026-01-24,Rent,5503,House Rent,Cash
+U003,2026-01-24,Food,303,Street Food,Cash
+U003,2026-02-19,Entertainment,477,Movies,Card
+U003,2026-02-21,Food,114,Food Delivery,Net Banking
+U003,2026-02-23,Food,167,Restaurant,Net Banking
+U003,2026-03-03,Other,580,Donation,Wallet
+U003,2026-03-15,Bills,351,Electricity,Card
+U003,2026-03-16,Shopping,962,Online Shopping,Cash
+U003,2026-03-22,Travel,5805,Vacation,Card
+U003,2026-03-23,Bills,527,Internet,Net Banking
+U003,2026-04-10,Other,384,Salon,Cash
+U003,2026-04-21,Transport,137,Fuel,Wallet
+U003,2026-04-27,Bills,1561,Insurance,Wallet
+U003,2026-05-11,Entertainment,442,Hobbies,Net Banking
+U003,2026-05-11,Food,194,Coffee Shop,Cash
+U003,2026-05-18,Bills,1443,Water,Net Banking
+U003,2026-05-22,Bills,806,Phone Recharge,Cash
+U003,2026-05-23,Education,1716,Books,Cash
+U003,2026-06-03,Bills,867,DTH,Cash
+U003,2026-06-20,Bills,606,Gas,Net Banking
+U004,2025-01-03,Transport,264,Parking,Cash
+U004,2025-02-07,Bills,1664,Phone Recharge,Net Banking
+U004,2025-02-07,Shopping,1536,Shoes,Card
+U004,2025-02-17,Food,728,Cafeteria,Cash
+U004,2025-02-20,Travel,2559,Vacation,Wallet
+U004,2025-04-03,Food,599,Street Food,Cash
+U004,2025-04-06,Transport,285,Bus,Card
+U004,2025-04-13,Entertainment,1469,Concert,Net Banking
+U004,2025-04-20,Food,690,Bakery,Card
+U004,2025-05-01,Other,488,Donation,Card
+U004,2025-05-15,Entertainment,437,Streaming,Cash
+U004,2025-05-16,Transport,104,Fuel,Wallet
+U004,2025-05-19,Food,715,Food Delivery,Net Banking
+U004,2025-05-25,Healthcare,2892,Lab Tests,Card
+U004,2025-05-28,Bills,228,Phone Recharge,Net Banking
+U004,2025-05-29,Healthcare,807,Lab Tests,Net Banking
+U004,2025-06-08,Shopping,1803,Gifts,Net Banking
+U004,2025-07-04,Food,474,Bakery,Card
+U004,2025-08-15,Food,736,Street Food,UPI
+U004,2025-08-24,Entertainment,1175,Games,Wallet
+U004,2025-08-28,Shopping,414,Books,Net Banking
+U004,2025-09-02,Rent,14808,House Rent,Wallet
+U004,2025-09-03,Shopping,452,Online Shopping,Card
+U004,2025-09-04,Food,515,Bakery,Net Banking
+U004,2025-09-14,Healthcare,1946,Medicine,Card
+U004,2025-09-18,Rent,7322,House Rent,Net Banking
+U004,2025-09-26,Food,555,Street Food,Wallet
+U004,2025-09-28,Transport,209,Parking,Wallet
+U004,2025-09-29,Rent,5748,House Rent,Cash
+U004,2025-10-07,Shopping,1576,Home Decor,Net Banking
+U004,2025-10-07,Rent,10309,Maintenance,Card
+U004,2025-10-10,Food,698,Coffee Shop,Net Banking
+U004,2025-10-22,Food,226,Restaurant,Card
+U004,2025-10-30,Shopping,1767,Books,UPI
+U004,2025-10-30,Transport,473,Parking,Cash
+U004,2025-11-06,Bills,1837,Phone Recharge,Net Banking
+U004,2025-11-08,Food,760,Groceries,Net Banking
+U004,2025-11-13,Bills,1363,DTH,Net Banking
+U004,2025-12-03,Bills,1370,Phone Recharge,Wallet
+U004,2025-12-20,Education,462,Books,Wallet
+U004,2026-01-12,Rent,14809,House Rent,Wallet
+U004,2026-01-22,Shopping,1101,Online Shopping,Net Banking
+U004,2026-02-11,Rent,11744,Parking Fee,Wallet
+U004,2026-02-18,Food,292,Cafeteria,Wallet
+U004,2026-02-22,Bills,1081,Insurance,Cash
+U004,2026-03-18,Entertainment,570,Games,Card
+U004,2026-03-27,Shopping,2622,Books,UPI
+U004,2026-04-01,Food,213,Street Food,Card
+U004,2026-04-13,Transport,351,Fuel,Cash
+U004,2026-04-19,Healthcare,2007,Doctor Visit,Net Banking
+U004,2026-04-22,Transport,451,Bus,Cash
+U004,2026-04-30,Shopping,227,Gifts,Net Banking
+U004,2026-05-15,Shopping,1918,Books,Wallet
+U004,2026-05-17,Entertainment,891,Sports,Card
+U004,2026-05-26,Food,517,Street Food,Net Banking
+U005,2025-01-03,Transport,399,Metro,Cash
+U005,2025-01-22,Bills,1351,DTH,UPI
+U005,2025-01-27,Food,684,Bakery,Wallet
+U005,2025-02-22,Shopping,2617,Gifts,Cash
+U005,2025-02-23,Bills,514,Electricity,Card
+U005,2025-02-23,Entertainment,915,Sports,Card
+U005,2025-03-07,Entertainment,215,Sports,Net Banking
+U005,2025-03-09,Rent,11083,Maintenance,Card
+U005,2025-04-09,Food,120,Restaurant,Cash
+U005,2025-04-21,Food,218,Juice Bar,Cash
+U005,2025-04-22,Shopping,1588,Books,Net Banking
+U005,2025-04-24,Food,309,Restaurant,Cash
+U005,2025-04-27,Entertainment,790,Movies,Wallet
+U005,2025-05-03,Entertainment,470,Games,UPI
+U005,2025-06-01,Shopping,1118,Books,Card
+U005,2025-06-06,Food,198,Cafeteria,UPI
+U005,2025-07-04,Rent,7674,Parking Fee,Cash
+U005,2025-07-30,Entertainment,1484,Streaming,UPI
+U005,2025-08-09,Entertainment,1287,Movies,Net Banking
+U005,2025-08-09,Food,119,Groceries,Net Banking
+U005,2025-08-10,Healthcare,701,Dental,Card
+U005,2025-08-15,Food,609,Cafeteria,Cash
+U005,2025-09-14,Rent,14875,House Rent,Card
+U005,2025-10-06,Food,555,Groceries,Net Banking
+U005,2025-10-13,Healthcare,433,Gym,Wallet
+U005,2025-11-05,Food,56,Groceries,Card
+U005,2025-11-07,Shopping,1382,Online Shopping,Cash
+U005,2025-11-12,Education,2485,Exam Fee,UPI
+U005,2025-11-14,Bills,1113,Internet,Net Banking
+U005,2025-11-16,Shopping,556,Books,Cash
+U005,2025-11-17,Shopping,1006,Electronics,Cash
+U005,2025-11-20,Bills,782,Gas,Card
+U005,2025-11-29,Transport,301,Bike Service,Net Banking
+U005,2025-11-29,Transport,30,Fuel,Card
+U005,2025-12-04,Healthcare,274,Dental,UPI
+U005,2025-12-26,Education,4616,Stationery,UPI
+U005,2025-12-29,Education,2838,Exam Fee,UPI
+U005,2026-01-02,Food,149,Groceries,Card
+U005,2026-01-06,Healthcare,1434,Dental,UPI
+U005,2026-01-25,Shopping,610,Gifts,Wallet
+U005,2026-02-12,Rent,8587,Parking Fee,Cash
+U005,2026-02-15,Food,475,Coffee Shop,UPI
+U005,2026-02-15,Shopping,806,Electronics,Wallet
+U005,2026-02-19,Rent,9293,Parking Fee,Net Banking
+U005,2026-03-01,Bills,1293,Phone Recharge,Cash
+U005,2026-03-17,Other,481,Salon,UPI
+U005,2026-03-31,Shopping,1522,Electronics,UPI
+U005,2026-04-05,Food,398,Juice Bar,Wallet
+U005,2026-04-10,Shopping,1300,Accessories,Net Banking
+U005,2026-04-11,Food,762,Restaurant,UPI
+U005,2026-04-16,Shopping,1365,Clothes,UPI
+U005,2026-05-01,Shopping,2092,Shoes,UPI
+U005,2026-05-06,Shopping,276,Clothes,Net Banking
+U005,2026-06-04,Bills,386,Internet,Card
+U005,2026-06-18,Shopping,2209,Clothes,Cash
+U006,2025-01-06,Entertainment,700,Concert,UPI
+U006,2025-02-14,Food,591,Coffee Shop,Net Banking
+U006,2025-02-23,Shopping,2069,Books,Cash
+U006,2025-02-23,Healthcare,2632,Medicine,Net Banking
+U006,2025-03-05,Bills,472,Gas,Net Banking
+U006,2025-03-11,Transport,191,Bus,Cash
+U006,2025-03-28,Food,787,Street Food,Wallet
+U006,2025-05-05,Food,228,Cafeteria,UPI
+U006,2025-05-19,Other,650,Miscellaneous,UPI
+U006,2025-05-21,Rent,6920,Maintenance,Card
+U006,2025-06-03,Transport,335,Parking,Cash
+U006,2025-06-15,Entertainment,815,Sports,Card
+U006,2025-06-29,Food,660,Street Food,Net Banking
+U006,2025-07-04,Healthcare,329,Lab Tests,Wallet
+U006,2025-07-11,Rent,8390,Maintenance,Net Banking
+U006,2025-07-12,Shopping,1404,Clothes,Cash
+U006,2025-07-15,Shopping,835,Online Shopping,Cash
+U006,2025-07-18,Food,728,Juice Bar,Cash
+U006,2025-07-26,Education,281,Online Course,UPI
+U006,2025-08-08,Transport,168,Auto Rickshaw,Cash
+U006,2025-08-16,Food,119,Bakery,Net Banking
+U006,2025-08-28,Transport,396,Bike Service,Wallet
+U006,2025-09-04,Transport,315,Bus,Wallet
+U006,2025-09-05,Bills,1128,DTH,Card
+U006,2025-10-21,Shopping,1169,Clothes,UPI
+U006,2025-10-30,Transport,58,Bus,Cash
+U006,2025-11-14,Food,738,Coffee Shop,Net Banking
+U006,2025-11-14,Entertainment,508,Movies,Wallet
+U006,2025-12-06,Transport,43,Parking,Cash
+U006,2025-12-07,Food,629,Restaurant,Card
+U006,2025-12-10,Food,679,Restaurant,Card
+U006,2026-01-05,Shopping,1618,Electronics,UPI
+U006,2026-01-17,Bills,486,Gas,Cash
+U006,2026-01-19,Shopping,2984,Gifts,Card
+U006,2026-01-21,Food,282,Restaurant,Cash
+U006,2026-01-21,Bills,1312,Insurance,Card
+U006,2026-01-31,Food,468,Restaurant,Cash
+U006,2026-02-01,Food,83,Juice Bar,Cash
+U006,2026-02-10,Rent,9149,House Rent,Wallet
+U006,2026-02-14,Food,378,Street Food,Net Banking
+U006,2026-03-10,Healthcare,371,Dental,Wallet
+U006,2026-03-22,Shopping,1883,Books,Cash
+U006,2026-03-25,Bills,646,Electricity,Net Banking
+U006,2026-03-31,Transport,134,Bike Service,Wallet
+U006,2026-03-31,Shopping,583,Gifts,Cash
+U006,2026-04-06,Transport,97,Parking,Wallet
+U006,2026-04-18,Education,4924,Exam Fee,Cash
+U006,2026-04-29,Food,738,Cafeteria,Card
+U006,2026-05-27,Food,97,Juice Bar,Wallet
+U006,2026-06-04,Bills,363,Insurance,Net Banking
+U006,2026-06-04,Travel,4305,Weekend Trip,Wallet
+U006,2026-06-13,Rent,14343,Parking Fee,UPI
+U006,2026-06-16,Education,4629,Stationery,Cash
+U006,2026-06-24,Food,431,Restaurant,UPI
+U006,2026-06-25,Food,676,Food Delivery,Net Banking
+U007,2025-01-28,Transport,439,Bike Service,Wallet
+U007,2025-02-01,Entertainment,946,Concert,Net Banking
+U007,2025-02-03,Entertainment,575,Games,Wallet
+U007,2025-02-16,Food,425,Bakery,UPI
+U007,2025-03-10,Food,76,Juice Bar,Card
+U007,2025-03-16,Food,273,Bakery,UPI
+U007,2025-03-17,Shopping,2488,Gifts,Card
+U007,2025-03-18,Bills,1906,Insurance,Net Banking
+U007,2025-03-22,Rent,13949,Parking Fee,Cash
+U007,2025-04-10,Education,730,Course Fee,Net Banking
+U007,2025-04-23,Healthcare,192,Medicine,Card
+U007,2025-04-27,Transport,140,Auto Rickshaw,UPI
+U007,2025-05-01,Entertainment,801,Concert,Cash
+U007,2025-05-13,Food,401,Street Food,Wallet
+U007,2025-05-13,Food,626,Coffee Shop,Net Banking
+U007,2025-05-18,Bills,393,Insurance,Cash
+U007,2025-06-07,Bills,1354,Gas,Card
+U007,2025-06-13,Transport,380,Parking,UPI
+U007,2025-07-28,Food,413,Bakery,Cash
+U007,2025-08-19,Transport,175,Metro,Cash
+U007,2025-08-31,Food,644,Food Delivery,Net Banking
+U007,2025-09-29,Food,111,Groceries,Card
+U007,2025-10-01,Food,400,Food Delivery,Net Banking
+U007,2025-10-14,Shopping,2317,Online Shopping,Wallet
+U007,2025-10-20,Entertainment,697,Hobbies,Net Banking
+U007,2025-10-23,Bills,853,Water,UPI
+U007,2025-11-04,Education,2757,Exam Fee,Card
+U007,2025-11-06,Rent,7897,Parking Fee,Net Banking
+U007,2025-11-07,Food,144,Cafeteria,Wallet
+U007,2025-11-17,Shopping,2459,Shoes,Card
+U007,2025-11-23,Bills,1751,Internet,Cash
+U007,2025-11-23,Food,296,Coffee Shop,Card
+U007,2025-11-24,Rent,14973,Maintenance,Cash
+U007,2025-12-12,Bills,1824,DTH,Wallet
+U007,2025-12-28,Shopping,724,Accessories,UPI
+U007,2026-01-10,Shopping,1718,Books,Card
+U007,2026-01-11,Entertainment,250,Sports,Net Banking
+U007,2026-01-16,Food,762,Juice Bar,Net Banking
+U007,2026-01-25,Bills,1316,DTH,Card
+U007,2026-01-29,Food,88,Restaurant,Wallet
+U007,2026-02-07,Rent,5232,Maintenance,Wallet
+U007,2026-02-15,Entertainment,581,Concert,UPI
+U007,2026-03-03,Transport,73,Bike Service,Wallet
+U007,2026-04-08,Food,690,Coffee Shop,Card
+U007,2026-04-24,Entertainment,1494,Concert,Net Banking
+U007,2026-04-27,Food,498,Juice Bar,Cash
+U007,2026-05-02,Bills,1213,DTH,UPI
+U007,2026-05-06,Rent,8093,House Rent,Wallet
+U007,2026-05-07,Shopping,2192,Accessories,Card
+U007,2026-06-04,Shopping,1822,Home Decor,Wallet
+U007,2026-06-05,Education,3989,Books,Card
+U007,2026-06-12,Travel,6205,Hotel,Wallet
+U007,2026-06-14,Travel,3875,Flight,Cash
+U007,2026-06-15,Shopping,2511,Clothes,Card
+U007,2026-06-16,Food,653,Street Food,Net Banking
+U008,2025-01-04,Entertainment,419,Concert,Card
+U008,2025-02-02,Transport,387,Bike Service,Net Banking
+U008,2025-02-07,Rent,14339,House Rent,Net Banking
+U008,2025-02-19,Bills,1276,Phone Recharge,Card
+U008,2025-03-05,Shopping,2631,Online Shopping,Card
+U008,2025-03-07,Bills,963,Electricity,Wallet
+U008,2025-03-10,Bills,633,Electricity,UPI
+U008,2025-03-25,Healthcare,2309,Medicine,Wallet
+U008,2025-04-02,Transport,48,Bike Service,Wallet
+U008,2025-04-25,Shopping,326,Books,UPI
+U008,2025-05-18,Shopping,2679,Online Shopping,Wallet
+U008,2025-06-03,Healthcare,686,Dental,Card
+U008,2025-06-11,Education,125,Books,Net Banking
+U008,2025-06-13,Food,399,Restaurant,Net Banking
+U008,2025-06-29,Food,735,Groceries,Net Banking
+U008,2025-07-09,Transport,341,Fuel,Card
+U008,2025-07-10,Entertainment,423,Hobbies,UPI
+U008,2025-07-17,Entertainment,873,Games,Card
+U008,2025-07-24,Bills,1059,Phone Recharge,Cash
+U008,2025-07-30,Transport,232,Taxi,Wallet
+U008,2025-08-01,Rent,12712,Maintenance,Net Banking
+U008,2025-08-11,Entertainment,686,Concert,UPI
+U008,2025-08-17,Food,447,Bakery,UPI
+U008,2025-08-20,Food,232,Food Delivery,Card
+U008,2025-08-31,Bills,1673,DTH,Cash
+U008,2025-09-28,Transport,436,Parking,Wallet
+U008,2025-10-06,Food,750,Cafeteria,Card
+U008,2025-10-08,Transport,289,Auto Rickshaw,Cash
+U008,2025-10-22,Travel,2678,Hotel,UPI
+U008,2025-10-24,Entertainment,1408,Streaming,UPI
+U008,2025-10-30,Education,3482,Stationery,Cash
+U008,2025-11-02,Shopping,909,Accessories,Card
+U008,2025-11-06,Shopping,2867,Home Decor,Wallet
+U008,2025-11-23,Food,226,Cafeteria,Wallet
+U008,2025-12-05,Shopping,2446,Accessories,Card
+U008,2025-12-10,Food,746,Restaurant,Cash
+U008,2025-12-17,Shopping,1433,Shoes,Wallet
+U008,2025-12-21,Shopping,818,Accessories,Card
+U008,2025-12-23,Food,540,Coffee Shop,UPI
+U008,2026-01-04,Entertainment,429,Movies,Card
+U008,2026-01-22,Other,476,Miscellaneous,Net Banking
+U008,2026-01-28,Shopping,120,Accessories,Card
+U008,2026-02-09,Food,722,Bakery,Cash
+U008,2026-02-27,Food,364,Street Food,Card
+U008,2026-03-07,Transport,389,Metro,Cash
+U008,2026-03-11,Entertainment,721,Games,Wallet
+U008,2026-03-14,Bills,1815,DTH,Wallet
+U008,2026-04-10,Shopping,2445,Online Shopping,Card
+U008,2026-04-19,Shopping,1735,Online Shopping,Cash
+U008,2026-04-28,Shopping,1306,Books,Wallet
+U008,2026-04-29,Food,298,Bakery,UPI
+U008,2026-04-29,Other,987,Donation,UPI
+U008,2026-05-05,Shopping,2995,Books,Wallet
+U008,2026-05-05,Bills,1923,Water,Card
+U008,2026-05-06,Transport,335,Fuel,Card
+U009,2025-02-02,Transport,427,Parking,UPI
+U009,2025-02-10,Transport,310,Bike Service,UPI
+U009,2025-02-16,Rent,8129,Maintenance,Wallet
+U009,2025-02-19,Food,759,Restaurant,UPI
+U009,2025-02-27,Shopping,1703,Gifts,UPI
+U009,2025-03-01,Rent,13058,House Rent,Wallet
+U009,2025-03-02,Rent,14903,Parking Fee,Wallet
+U009,2025-03-17,Entertainment,1207,Games,UPI
+U009,2025-03-18,Food,253,Juice Bar,Cash
+U009,2025-03-22,Food,298,Food Delivery,Net Banking
+U009,2025-03-22,Transport,375,Parking,Wallet
+U009,2025-03-28,Food,341,Bakery,Wallet
+U009,2025-03-31,Transport,69,Auto Rickshaw,Card
+U009,2025-04-02,Shopping,400,Gifts,Cash
+U009,2025-05-18,Shopping,1716,Gifts,Net Banking
+U009,2025-06-04,Shopping,297,Accessories,UPI
+U009,2025-06-07,Transport,362,Fuel,Net Banking
+U009,2025-06-23,Rent,10720,House Rent,Net Banking
+U009,2025-06-29,Transport,475,Taxi,Net Banking
+U009,2025-07-03,Rent,11581,Parking Fee,Cash
+U009,2025-07-14,Travel,2089,Flight,UPI
+U009,2025-07-15,Healthcare,1653,Doctor Visit,UPI
+U009,2025-07-29,Entertainment,1376,Concert,Net Banking
+U009,2025-08-19,Food,231,Juice Bar,Cash
+U009,2025-09-04,Food,443,Restaurant,Card
+U009,2025-09-07,Food,394,Bakery,Card
+U009,2025-09-09,Food,335,Food Delivery,Net Banking
+U009,2025-09-10,Entertainment,415,Games,Net Banking
+U009,2025-09-25,Rent,6459,Parking Fee,Wallet
+U009,2025-10-01,Bills,1667,Internet,Net Banking
+U009,2025-10-09,Food,59,Bakery,Wallet
+U009,2025-10-17,Rent,8216,Parking Fee,Net Banking
+U009,2025-10-30,Rent,12200,Parking Fee,Card
+U009,2025-11-03,Food,257,Bakery,Net Banking
+U009,2025-11-04,Transport,216,Fuel,Net Banking
+U009,2025-11-12,Transport,64,Bus,Net Banking
+U009,2025-11-29,Bills,1276,Gas,Net Banking
+U009,2025-12-07,Food,410,Food Delivery,Cash
+U009,2026-01-04,Shopping,994,Books,Wallet
+U009,2026-01-25,Food,374,Bakery,UPI
+U009,2026-01-26,Bills,1950,Electricity,Wallet
+U009,2026-02-03,Transport,135,Taxi,Wallet
+U009,2026-02-11,Healthcare,1855,Gym,Cash
+U009,2026-02-12,Food,490,Food Delivery,UPI
+U009,2026-02-28,Rent,10213,Parking Fee,Cash
+U009,2026-03-17,Travel,4267,Flight,Card
+U009,2026-03-21,Education,2549,Course Fee,Cash
+U009,2026-03-24,Entertainment,128,Games,Card
+U009,2026-04-07,Food,638,Cafeteria,Net Banking
+U009,2026-04-26,Rent,5986,Maintenance,Cash
+U009,2026-05-10,Food,330,Juice Bar,Net Banking
+U009,2026-05-16,Bills,808,DTH,Net Banking
+U009,2026-05-16,Shopping,591,Books,Card
+U009,2026-05-20,Food,276,Cafeteria,Card
+U009,2026-06-25,Bills,1953,Insurance,UPI
+U010,2025-02-24,Food,681,Street Food,Cash
+U010,2025-03-06,Food,204,Food Delivery,Wallet
+U010,2025-03-26,Education,2495,Online Course,Wallet
+U010,2025-04-11,Travel,1295,Vacation,Cash
+U010,2025-05-01,Bills,441,DTH,Card
+U010,2025-05-16,Other,716,Pet Care,Card
+U010,2025-05-19,Bills,1024,Water,Cash
+U010,2025-05-20,Shopping,2465,Gifts,Cash
+U010,2025-05-25,Transport,199,Metro,Wallet
+U010,2025-06-04,Entertainment,1051,Sports,Cash
+U010,2025-06-07,Food,232,Cafeteria,Net Banking
+U010,2025-06-22,Bills,706,Gas,Cash
+U010,2025-07-04,Food,494,Food Delivery,Wallet
+U010,2025-07-10,Food,522,Bakery,Net Banking
+U010,2025-07-21,Food,324,Coffee Shop,Net Banking
+U010,2025-07-31,Bills,572,Insurance,UPI
+U010,2025-08-03,Food,757,Juice Bar,Net Banking
+U010,2025-08-31,Shopping,2349,Electronics,Card
+U010,2025-09-07,Education,4657,Books,Wallet
+U010,2025-09-11,Food,127,Bakery,Cash
+U010,2025-09-12,Bills,397,Electricity,Cash
+U010,2025-10-01,Travel,2670,Train,Wallet
+U010,2025-10-09,Food,269,Food Delivery,Card
+U010,2025-10-12,Food,352,Restaurant,Cash
+U010,2025-11-01,Healthcare,600,Dental,Wallet
+U010,2025-11-04,Shopping,1025,Online Shopping,UPI
+U010,2025-11-17,Food,446,Juice Bar,Wallet
+U010,2025-11-18,Transport,116,Bike Service,Card
+U010,2025-12-18,Food,311,Coffee Shop,Net Banking
+U010,2025-12-18,Healthcare,165,Doctor Visit,UPI
+U010,2025-12-23,Shopping,1802,Gifts,Cash
+U010,2025-12-23,Rent,9497,House Rent,UPI
+U010,2026-01-04,Shopping,1677,Gifts,Wallet
+U010,2026-01-11,Shopping,877,Electronics,Wallet
+U010,2026-01-20,Food,521,Cafeteria,Net Banking
+U010,2026-01-25,Food,299,Bakery,Cash
+U010,2026-01-29,Travel,1524,Vacation,Wallet
+U010,2026-02-05,Food,384,Food Delivery,Net Banking
+U010,2026-02-07,Entertainment,595,Games,Cash
+U010,2026-02-07,Food,671,Street Food,Net Banking
+U010,2026-02-14,Food,472,Groceries,Cash
+U010,2026-02-23,Entertainment,150,Hobbies,Net Banking
+U010,2026-02-26,Other,179,Donation,UPI
+U010,2026-03-02,Other,149,Miscellaneous,UPI
+U010,2026-03-10,Shopping,1767,Shoes,Card
+U010,2026-03-13,Food,298,Coffee Shop,Net Banking
+U010,2026-03-15,Healthcare,2098,Dental,Card
+U010,2026-03-16,Shopping,1404,Accessories,Net Banking
+U010,2026-03-28,Healthcare,2304,Doctor Visit,Wallet
+U010,2026-05-03,Entertainment,750,Sports,UPI
+U010,2026-05-06,Entertainment,701,Movies,Wallet
+U010,2026-05-17,Shopping,1709,Shoes,Cash
+U010,2026-05-18,Travel,2686,Train,Wallet
+U010,2026-05-19,Shopping,1286,Online Shopping,Net Banking
+U010,2026-05-23,Bills,1605,Water,Wallet

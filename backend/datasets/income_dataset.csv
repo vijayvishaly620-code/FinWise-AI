@@ -1,0 +1,189 @@
+user_id,date,source,amount,income_type
+U001,2025-01-01,Part Time,52565,Monthly
+U001,2025-01-26,Investment,8511,Irregular
+U001,2025-01-31,Freelance,53510,Monthly
+U001,2025-03-02,Salary,54316,Monthly
+U001,2025-04-01,Salary,51317,Monthly
+U001,2025-05-01,Part Time,49997,Monthly
+U001,2025-05-31,Part Time,50564,Monthly
+U001,2025-06-30,Salary,52435,Monthly
+U001,2025-07-30,Part Time,53389,Monthly
+U001,2025-08-29,Salary,48613,Monthly
+U001,2025-09-28,Part Time,47931,Monthly
+U001,2025-10-17,Business,8230,Irregular
+U001,2025-10-28,Salary,51302,Monthly
+U001,2025-11-07,Business,5945,Irregular
+U001,2025-11-27,Part Time,48562,Monthly
+U001,2025-12-27,Part Time,48473,Monthly
+U001,2026-01-26,Freelance,49153,Monthly
+U001,2026-02-13,Rental,4836,Irregular
+U001,2026-02-25,Freelance,48545,Monthly
+U002,2025-01-01,Part Time,18709,Monthly
+U002,2025-01-20,Business,9510,Irregular
+U002,2025-01-31,Salary,18137,Monthly
+U002,2025-03-02,Salary,21530,Monthly
+U002,2025-04-01,Part Time,18651,Monthly
+U002,2025-04-09,Investment,2678,Irregular
+U002,2025-05-01,Part Time,21082,Monthly
+U002,2025-05-31,Salary,21206,Monthly
+U002,2025-06-30,Salary,23326,Monthly
+U002,2025-07-30,Salary,18631,Monthly
+U002,2025-08-29,Salary,23070,Monthly
+U002,2025-09-28,Part Time,20947,Monthly
+U002,2025-10-28,Freelance,24200,Monthly
+U002,2025-11-08,Gift,8248,Irregular
+U002,2025-11-27,Salary,18894,Monthly
+U002,2025-12-13,Investment,7291,Irregular
+U002,2025-12-27,Part Time,20647,Monthly
+U003,2025-01-01,Freelance,34928,Monthly
+U003,2025-01-06,Bonus,5668,Irregular
+U003,2025-01-31,Freelance,36709,Monthly
+U003,2025-02-11,Bonus,9348,Irregular
+U003,2025-03-02,Freelance,37447,Monthly
+U003,2025-03-22,Investment,4921,Irregular
+U003,2025-04-01,Part Time,35161,Monthly
+U003,2025-04-22,Bonus,2163,Irregular
+U003,2025-05-01,Salary,37196,Monthly
+U003,2025-05-31,Salary,37406,Monthly
+U003,2025-06-30,Freelance,37685,Monthly
+U003,2025-07-30,Freelance,35653,Monthly
+U003,2025-08-29,Salary,34374,Monthly
+U003,2025-09-28,Salary,36385,Monthly
+U003,2025-10-19,Investment,7520,Irregular
+U003,2025-10-28,Part Time,39387,Monthly
+U003,2025-11-27,Part Time,37707,Monthly
+U003,2025-12-27,Salary,39485,Monthly
+U003,2026-01-26,Freelance,35488,Monthly
+U003,2026-02-16,Rental,2294,Irregular
+U004,2025-01-01,Salary,35710,Monthly
+U004,2025-01-31,Freelance,36512,Monthly
+U004,2025-03-02,Freelance,36895,Monthly
+U004,2025-04-01,Part Time,37039,Monthly
+U004,2025-05-01,Salary,31790,Monthly
+U004,2025-05-20,Gift,2900,Irregular
+U004,2025-05-31,Freelance,36303,Monthly
+U004,2025-06-05,Business,2956,Irregular
+U004,2025-06-30,Freelance,32440,Monthly
+U004,2025-07-30,Salary,35382,Monthly
+U004,2025-08-29,Freelance,35553,Monthly
+U004,2025-09-28,Freelance,33439,Monthly
+U004,2025-10-06,Business,5403,Irregular
+U004,2025-10-28,Salary,34060,Monthly
+U004,2025-11-27,Part Time,35607,Monthly
+U004,2025-12-17,Bonus,2262,Irregular
+U004,2025-12-27,Part Time,35500,Monthly
+U004,2026-01-26,Part Time,35959,Monthly
+U004,2026-02-03,Business,5179,Irregular
+U004,2026-02-25,Freelance,36838,Monthly
+U004,2026-03-27,Salary,37384,Monthly
+U004,2026-04-26,Salary,31416,Monthly
+U004,2026-05-13,Gift,6963,Irregular
+U004,2026-05-26,Salary,32782,Monthly
+U005,2025-01-01,Freelance,80775,Monthly
+U005,2025-01-31,Freelance,79567,Monthly
+U005,2025-03-02,Part Time,76229,Monthly
+U005,2025-04-01,Freelance,76816,Monthly
+U005,2025-04-09,Investment,7108,Irregular
+U005,2025-05-01,Freelance,79711,Monthly
+U005,2025-05-31,Salary,76024,Monthly
+U005,2025-06-30,Salary,77480,Monthly
+U005,2025-07-14,Gift,5625,Irregular
+U005,2025-07-30,Part Time,74903,Monthly
+U005,2025-08-29,Salary,77218,Monthly
+U005,2025-09-22,Bonus,5979,Irregular
+U005,2025-09-28,Salary,77996,Monthly
+U005,2025-10-28,Part Time,80525,Monthly
+U005,2025-11-27,Freelance,78673,Monthly
+U006,2025-01-01,Salary,37423,Monthly
+U006,2025-01-26,Bonus,6675,Irregular
+U006,2025-01-31,Freelance,34142,Monthly
+U006,2025-03-02,Salary,40281,Monthly
+U006,2025-04-01,Freelance,40021,Monthly
+U006,2025-05-01,Salary,38404,Monthly
+U006,2025-05-31,Part Time,38094,Monthly
+U006,2025-06-30,Salary,39893,Monthly
+U006,2025-07-21,Investment,4792,Irregular
+U006,2025-07-30,Part Time,39805,Monthly
+U006,2025-08-29,Part Time,40190,Monthly
+U006,2025-09-07,Investment,9280,Irregular
+U006,2025-09-28,Freelance,40781,Monthly
+U006,2025-10-28,Freelance,38715,Monthly
+U006,2025-11-11,Business,4879,Irregular
+U006,2025-11-27,Part Time,41034,Monthly
+U006,2025-12-27,Part Time,39804,Monthly
+U007,2025-01-01,Part Time,41608,Monthly
+U007,2025-01-24,Business,3230,Irregular
+U007,2025-01-31,Salary,40654,Monthly
+U007,2025-02-15,Gift,8635,Irregular
+U007,2025-03-02,Part Time,40370,Monthly
+U007,2025-04-01,Salary,43083,Monthly
+U007,2025-05-01,Part Time,46364,Monthly
+U007,2025-05-25,Business,5984,Irregular
+U007,2025-05-31,Salary,41142,Monthly
+U007,2025-06-30,Part Time,40596,Monthly
+U007,2025-07-17,Business,6828,Irregular
+U007,2025-07-30,Freelance,39782,Monthly
+U007,2025-08-29,Part Time,46099,Monthly
+U007,2025-09-28,Salary,42693,Monthly
+U007,2025-10-28,Freelance,45509,Monthly
+U007,2025-11-27,Salary,43166,Monthly
+U007,2025-12-02,Business,2989,Irregular
+U007,2025-12-27,Salary,46183,Monthly
+U007,2026-01-26,Salary,40451,Monthly
+U007,2026-02-20,Gift,7098,Irregular
+U008,2025-01-01,Freelance,65051,Monthly
+U008,2025-01-08,Investment,1357,Irregular
+U008,2025-01-31,Salary,65541,Monthly
+U008,2025-03-02,Salary,61003,Monthly
+U008,2025-04-01,Part Time,61253,Monthly
+U008,2025-04-11,Gift,1829,Irregular
+U008,2025-05-01,Freelance,63798,Monthly
+U008,2025-05-31,Part Time,64314,Monthly
+U008,2025-06-16,Gift,3831,Irregular
+U008,2025-06-30,Salary,61783,Monthly
+U008,2025-07-06,Gift,3435,Irregular
+U008,2025-07-30,Freelance,65322,Monthly
+U008,2025-08-29,Freelance,62667,Monthly
+U008,2025-09-28,Freelance,64174,Monthly
+U008,2025-10-07,Rental,7275,Irregular
+U008,2025-10-28,Part Time,61883,Monthly
+U008,2025-11-27,Freelance,62291,Monthly
+U009,2025-01-01,Salary,73703,Monthly
+U009,2025-01-31,Part Time,74499,Monthly
+U009,2025-03-02,Part Time,73388,Monthly
+U009,2025-04-01,Freelance,73204,Monthly
+U009,2025-05-01,Salary,70783,Monthly
+U009,2025-05-31,Salary,70810,Monthly
+U009,2025-06-30,Part Time,71049,Monthly
+U009,2025-07-30,Part Time,74907,Monthly
+U009,2025-08-29,Freelance,72476,Monthly
+U009,2025-09-28,Salary,72600,Monthly
+U009,2025-10-28,Part Time,74941,Monthly
+U009,2025-11-27,Freelance,71028,Monthly
+U009,2025-12-27,Salary,75286,Monthly
+U009,2026-01-26,Part Time,73476,Monthly
+U009,2026-02-25,Salary,72012,Monthly
+U009,2026-03-20,Rental,6878,Irregular
+U009,2026-03-27,Salary,76332,Monthly
+U010,2025-01-01,Salary,59813,Monthly
+U010,2025-01-31,Part Time,59642,Monthly
+U010,2025-03-02,Part Time,55511,Monthly
+U010,2025-03-07,Business,4584,Irregular
+U010,2025-04-01,Freelance,59116,Monthly
+U010,2025-04-10,Bonus,4300,Irregular
+U010,2025-05-01,Part Time,61074,Monthly
+U010,2025-05-06,Rental,1975,Irregular
+U010,2025-05-31,Salary,60006,Monthly
+U010,2025-06-30,Salary,61544,Monthly
+U010,2025-07-07,Bonus,6978,Irregular
+U010,2025-07-30,Part Time,60972,Monthly
+U010,2025-08-29,Part Time,60001,Monthly
+U010,2025-09-07,Rental,6285,Irregular
+U010,2025-09-28,Salary,61200,Monthly
+U010,2025-10-28,Freelance,59192,Monthly
+U010,2025-11-27,Salary,60994,Monthly
+U010,2025-12-27,Freelance,60228,Monthly
+U010,2026-01-26,Salary,60653,Monthly
+U010,2026-02-25,Salary,58300,Monthly
+U010,2026-03-27,Freelance,57613,Monthly
+U010,2026-04-19,Investment,7415,Irregular
