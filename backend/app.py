@@ -6,18 +6,26 @@ from config import Config
 from bson import ObjectId
 import json
 
+from flask.json.provider import DefaultJSONProvider
+import numpy as np
+
 app = Flask(__name__)
 app.config.from_object(Config)
-CORS(app, resources={r"/api/*": {"origins": "*"}})
+CORS(app, resources={r"/api/*": {"origins": Config.CORS_ORIGINS}})
 
 
-class JSONEncoder(json.JSONEncoder):
+class CustomJSONProvider(DefaultJSONProvider):
     def default(self, o):
         if isinstance(o, ObjectId):
             return str(o)
+        if isinstance(o, (np.integer, np.floating)):
+            return o.item()
+        if isinstance(o, np.ndarray):
+            return o.tolist()
         return super().default(o)
 
-app.json_encoder = JSONEncoder
+app.json_provider_class = CustomJSONProvider
+app.json = CustomJSONProvider(app)
 
 from routes.auth import auth_bp
 from routes.transactions import transactions_bp
@@ -54,4 +62,4 @@ def server_error(e):
 if __name__ == "__main__":
     print("Starting FinWise AI Backend...")
     print(f"MongoDB URI: {Config.MONGO_URI}")
-    app.run(debug=Config.DEBUG, host="0.0.0.0", port=5000)
+    app.run(debug=Config.DEBUG, host="0.0.0.0", port=Config.PORT)

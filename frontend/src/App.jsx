@@ -12,6 +12,7 @@ import Reports from './pages/Reports'
 import Profile from './pages/Profile'
 import Dataset from './pages/Dataset'
 import Layout from './components/Layout'
+import { auth } from './services/api'
 
 export const AuthContext = createContext(null)
 
@@ -27,10 +28,7 @@ export default function App() {
 
   useEffect(() => {
     if (token) {
-      fetch('/api/auth/profile', {
-        headers: { 'Authorization': `Bearer ${token}` }
-      })
-        .then(r => r.json())
+      auth.getProfile()
         .then(data => { if (data.user) setUser(data.user) })
         .catch(() => { localStorage.removeItem('token'); setToken(null) })
     }

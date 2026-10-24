@@ -3,7 +3,7 @@ import numpy as np
 import joblib
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-ML_DIR = os.path.dirname(os.path.abspath(__file__))
+ML_DIR = os.path.join(BASE_DIR, "ml")
 DATASETS_DIR = os.path.join(BASE_DIR, "datasets")
 
 HEALTH_FEATURES = [
@@ -70,11 +70,12 @@ class MLPredictor:
             prediction = self.health_model.predict(features)[0]
             probabilities = self.health_model.predict_proba(features)[0]
             confidence = float(max(probabilities)) * 100
+            health_label = self.encoder.inverse_transform([prediction])[0] if self.encoder else str(prediction)
 
             return {
-                "health": str(prediction),
+                "health": health_label,
                 "confidence": round(confidence, 1),
-                "message": f"ML prediction: Your financial health is '{prediction}' ({confidence:.1f}% confidence)."
+                "message": f"ML prediction: Your financial health is '{health_label}' ({confidence:.1f}% confidence)."
             }
         except Exception as e:
             return {"health": "Unknown", "confidence": 0, "message": f"Prediction error: {str(e)}"}
